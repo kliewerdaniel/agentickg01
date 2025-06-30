@@ -1,0 +1,6 @@
+networkx
+chromadb
+sentence-transformers
+ollama==0.1.*
+streamlit
+fire
