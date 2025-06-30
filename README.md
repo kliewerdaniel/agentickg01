@@ -14,13 +14,13 @@ LLMs are brilliant but forgetful. This repo turns them into agents with memory a
 	•	⚡ Quick demos – try python run.py journal "I feel stuck" in 30 s
 
 ## Quick Start
-
+```bash
 git clone https://github.com/kliewerdaniel/agentic-kg-starter.git
 cd agentic-kg-starter
 pip install -r requirements.txt
 ollama pull mistral   # or your favourite model in another terminal
 python run.py journal "I feel stuck but hopeful."
-
+```
 ## Extend
 	•	Add new agents in src/agents.py
 	•	Define bigger graphs in src/graph_builder.py
