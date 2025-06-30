@@ -27,5 +27,5 @@ python run.py journal "I feel stuck but hopeful."
 	•	Store & load graph templates (.yaml coming soon)
 	•	Spin up streamlit run Ui/streamlit_app.py to see your graph evolve.
 
-💡 Like the concept? The full 70-page guide dives deep into advanced patterns (temporal memory, self-evolving agents, UI recipes). Grab it here.
+💡 Like the concept? The full 40-page guide dives deep into advanced patterns (temporal memory, self-evolving agents, UI recipes). Grab it here.
 https://6340588028610.gumroad.com/l/ddsrtm
